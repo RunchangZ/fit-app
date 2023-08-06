@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
     "net/http"
-    "github.com/RunchangZ/golang_project/oauth2"
+    "github.com/RunchangZ/fit-app/oauth2"
 
 )
 
